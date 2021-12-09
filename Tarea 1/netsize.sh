@@ -8,6 +8,6 @@ $ cat n1.txt
 $ wc -l n1.txt ;  head -n1 n1.txt | grep -o " " | wc -l
 #El resultado fue :
 #numero de filas: 97
-#numero de filas: 80
+#numero de columnas: 80
 
 
