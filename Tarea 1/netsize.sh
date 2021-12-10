@@ -1,4 +1,4 @@
-#Escribe un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Su script debería devolver.
+# Escribe un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Su script debería devolver.
 ## Primero se abrio el directorio donde se encuentra los archivos necesarios para la tarea  
 ## Se debe llamar la carpeta de Saavedra2013
 cd Saavedra2013
