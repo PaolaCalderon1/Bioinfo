@@ -1,0 +1,3 @@
+# Ejercicio 1
+Numero de filas: 69
+Numero de columnas: 80
