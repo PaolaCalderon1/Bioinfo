@@ -1,0 +1,3 @@
+# Ejercicio 2
+el numero de filas esta con la leyendad .txt
+el numero de columnas se presenta solo numero 
